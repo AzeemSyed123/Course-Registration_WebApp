@@ -23,8 +23,8 @@ Steps to run the project:
 1. Clone the repository:
 
 	```bash
-	git clone https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-10.git
-	cd course-registration-portal
+	 git clone https://github.com/AzeemSyed123/Course-Registration_WebApp.git
+	cd Course-Registration_WebApp
 	 ```
 2. Import the Project:
 
